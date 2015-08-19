@@ -52,7 +52,7 @@ a:hover {text-decoration:underline;}
 	top:200px;
 	width:620px;
 	z-index:9999;
-	-webkit-font-smoothing:antialiased;
+	-webkit-font-smoothing:antialiased; 
 }
 
 #logo {
